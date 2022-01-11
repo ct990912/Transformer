@@ -1,3 +1,4 @@
+# 本文代码在B站博主“NLP从入门到放弃”提供的代码上进行的修改
 import numpy as np
 import torch
 import torch.nn as nn
